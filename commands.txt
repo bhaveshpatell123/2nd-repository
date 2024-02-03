@@ -1,0 +1,7 @@
+Git Commands->
+		1)git init->
+			it is used to initiliase the repository.
+
+		2)git status->
+			it is used to check status of file.it check whether the file is linked or not.it check 			position of the file on local folder or in repository...
+			
